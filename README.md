@@ -1,6 +1,4 @@
-# JantarFilosofos
-
-# Grupo 6 : 
+# Grupo 6 
 
 - Júlia Marques Boaventura - 8105
 - Moisés Moreira - 8108
